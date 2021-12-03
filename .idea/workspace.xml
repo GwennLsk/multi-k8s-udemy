@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8670b40d-07d8-4b43-90db-8672083cbdb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/k8s/client-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/client-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
     </list>
     <list id="d3992dca-812a-4af6-89b2-5c3b654ab33a" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1638574859" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1638574858" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="minikube" />
@@ -69,7 +96,7 @@
       <workItem from="1638442456549" duration="77000" />
       <workItem from="1638443449249" duration="819000" />
       <workItem from="1638444342429" duration="10201000" />
-      <workItem from="1638547370733" duration="11989000" />
+      <workItem from="1638547370733" duration="12530000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1638552216231</created>
