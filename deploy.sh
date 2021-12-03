@@ -11,5 +11,5 @@ docker push gwennlinski/multi-worker-udemy:$SHA
 
 kubectl apply -f k8s
 kubectl set image deployments/server-deployment server=gwennlinski/multi-server-udemy:$SHA
-kubectl set image deployments/client-deployment server=gwennlinski/multi-client-udemy:$SHA
-kubectl set image deployments/worker-deployment server=gwennlinski/multi-worker-udemy:$SHA
+kubectl set image deployments/client-deployment client=gwennlinski/multi-client-udemy:$SHA
+kubectl set image deployments/worker-deployment worker=gwennlinski/multi-worker-udemy:$SHA
