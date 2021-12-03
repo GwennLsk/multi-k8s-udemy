@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8670b40d-07d8-4b43-90db-8672083cbdb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/client-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/client-deployment.yml" afterDir="false" />
     </list>
     <list id="d3992dca-812a-4af6-89b2-5c3b654ab33a" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +31,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1638574859" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1638574938" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1638574858" />
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1638574859" />
                   </RecentBranch>
                 </list>
               </option>
