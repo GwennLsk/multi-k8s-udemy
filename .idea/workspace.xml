@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8670b40d-07d8-4b43-90db-8672083cbdb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <list id="d3992dca-812a-4af6-89b2-5c3b654ab33a" name="New changelist" comment="" />
@@ -71,7 +69,7 @@
       <workItem from="1638442456549" duration="77000" />
       <workItem from="1638443449249" duration="819000" />
       <workItem from="1638444342429" duration="10201000" />
-      <workItem from="1638547370733" duration="9671000" />
+      <workItem from="1638547370733" duration="10013000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1638552216231</created>
